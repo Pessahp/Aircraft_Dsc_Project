@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .env
 /data/
 *.csv
+=======
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore data files
+/data/
+*.csv
+>>>>>>> b783f07bc79540ce4233f83765265b2a30f3ed74
